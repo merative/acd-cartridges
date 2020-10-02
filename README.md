@@ -1,5 +1,4 @@
-# wh-acd-cartridges
-IBM Watson Health Annotator for Clinical Data Cartridges
+# IBM Annotator for Clinical Data Cartridge Repository
 
 Annotator for Clinical Data (ACD) extracts clinical insights, medical concepts, and medical codes from unstructured data. ACD is a highly customizable service that provides a collection of ready-to-use annotators and cartridges. ACD can be previewed here: https://acd-try-it-out.mybluemix.net/
 
