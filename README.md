@@ -4,3 +4,4 @@ Annotator for Clinical Data (ACD) extracts clinical insights, medical concepts, 
 
 This repository contains example and reference ACD Cartridges that can be imported and extended within the ACD Configuration Editor Tool. For information on obtaining access to the ACD Configuration Editor Tool contact: whcsdev@us.ibm.com
 
+Using the ACD Configuration Editor tool, you can import a cartridge you downloaded from this repository by selecting the "New->Import Cartridge" option. The cartridge will appear within your ACD Configuration Editor cartridge catalog view and be deployed as-is or extended by other cartridges to further customize the cartridge models.
